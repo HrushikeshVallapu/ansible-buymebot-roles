@@ -1,1 +1,3 @@
 CATALOGUE_HOST: catalogue.buymebot.shop
+USER_HOST: user.buymebot.shop
+CART_HOST: cart.buymebot.shop
