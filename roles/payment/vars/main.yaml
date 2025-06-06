@@ -1,0 +1,5 @@
+CART_HOST: cart.buymebot.shop
+USER_HOST: user.buymebot.shop
+RABBITMQ_HOST: rabbitmq.buymebot.shop
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
