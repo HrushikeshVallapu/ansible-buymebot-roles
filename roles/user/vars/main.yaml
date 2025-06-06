@@ -1,2 +1,2 @@
-MONGODB_HOST: mongodb.buymebot.shop
 REDIS_HOST: redis.buymebot.shop
+MONGODB_HOST: mongodb.buymebot.shop
