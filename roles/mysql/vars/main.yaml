@@ -1,1 +1,1 @@
-MYSQL_ROOT_PASSWORD: "{{ lookup('amazon.aws.aws_ssm', '/buymebot/ansible-w-roles/mysql', region='us-east-1', decrypt=True ) }}"
+MYSQL_ROOT_PASSWORD2: "{{ lookup('amazon.aws.aws_ssm', '/buymebot/ansible-w-roles/mysql', region='us-east-1', decrypt=True ) }}"
