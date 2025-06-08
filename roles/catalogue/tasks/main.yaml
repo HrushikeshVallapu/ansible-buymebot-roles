@@ -34,3 +34,10 @@
   include_role:
     name: common
     tasks_from: systemd_setup
+
+- name: deployment
+  tags: 
+  - deployment
+  include_roles:
+    name: common
+    tasks_from: deployment
