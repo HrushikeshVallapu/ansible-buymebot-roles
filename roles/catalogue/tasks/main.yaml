@@ -41,6 +41,6 @@
 - name: deployment
   tags: 
   - deployment
-  include_roles:
+  include_role:
     name: common
     tasks_from: deployment
